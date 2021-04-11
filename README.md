@@ -4,7 +4,6 @@
 - [ ] Adventure
 - [ ] Atari Circus
 - [ ] Atlantis
-- [ ] Battlezone
 - [ ] Berzek
 - [ ] Boxing
 - [ ] Centipede
