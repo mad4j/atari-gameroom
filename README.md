@@ -8,7 +8,7 @@
 - [ ] Boxing
 - [ ] Centipede
 - [ ] Combat
-- [×] Custer's Revenge
+- [ ] Custer's Revenge
 - [ ] Defender II
 - [ ] Dragonfire
 - [ ] Dragster
