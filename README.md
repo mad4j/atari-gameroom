@@ -23,4 +23,5 @@
 - [ ] Snoopy and the Red Baron
 - [ ] Solaris
 - [ ] Stampete
+- [ ] Tennis
 - [ ] Yars’ Revenge
