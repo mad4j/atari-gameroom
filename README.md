@@ -10,6 +10,7 @@
 - [ ] Combat
 - [ ] Defender II
 - [ ] Dragonfire
+- [ ] Dragster
 - [ ] Entombed
 - [ ] Freeway
 - [ ] Frog and Flies
@@ -21,4 +22,5 @@
 - [ ] Skiing
 - [ ] Snoopy and the Red Baron
 - [ ] Solaris
+- [ ] Stampete
 - [ ] Yars’ Revenge
