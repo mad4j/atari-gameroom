@@ -12,6 +12,7 @@
 - [ ] Defender II
 - [ ] Dragonfire
 - [ ] Dragster
+      Enduro
 - [ ] Entombed
 - [ ] Freeway
 - [ ] Frog and Flies
