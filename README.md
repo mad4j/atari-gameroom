@@ -8,9 +8,11 @@
 - [ ] Boxing
 - [ ] Centipede
 - [ ] Combat
+- [ ] Custer's Revenge
 - [ ] Defender II
 - [ ] Dragonfire
 - [ ] Dragster
+      Enduro
 - [ ] Entombed
 - [ ] Freeway
 - [ ] Frog and Flies
